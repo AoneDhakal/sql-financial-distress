@@ -1,0 +1,21 @@
+ticker,name,sector,years_of_data,first_year,last_year
+AAPL,Apple,Technology,10,2016,2025
+AMZN,Amazon,Consumer Discretionary,10,2016,2025
+BA,Boeing,Industrials,10,2016,2025
+CAT,Caterpillar,Industrials,10,2016,2025
+CVX,Chevron,Energy,10,2016,2025
+DAL,Delta Air Lines,Industrials,10,2016,2025
+F,Ford Motor,Consumer Discretionary,10,2016,2025
+GE,General Electric,Industrials,10,2016,2025
+GM,General Motors,Consumer Discretionary,10,2016,2025
+JNJ,Johnson & Johnson,Health Care,10,2016,2025
+KO,Coca-Cola,Consumer Staples,10,2016,2025
+MSFT,Microsoft,Technology,10,2016,2025
+NEE,NextEra Energy,Utilities,10,2016,2025
+NKE,Nike,Consumer Discretionary,10,2016,2025
+PFE,Pfizer,Health Care,10,2016,2025
+PG,Procter & Gamble,Consumer Staples,10,2016,2025
+T,AT&T,Communication Services,10,2016,2025
+VZ,Verizon,Communication Services,10,2016,2025
+WMT,Walmart,Consumer Staples,10,2016,2025
+XOM,Exxon Mobil,Energy,10,2016,2025

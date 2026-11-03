@@ -1,0 +1,21 @@
+ticker,name,sector
+AAPL,Apple,Technology
+MSFT,Microsoft,Technology
+AMZN,Amazon,Consumer Discretionary
+NKE,Nike,Consumer Discretionary
+WMT,Walmart,Consumer Staples
+KO,Coca-Cola,Consumer Staples
+PG,Procter & Gamble,Consumer Staples
+JNJ,Johnson & Johnson,Health Care
+PFE,Pfizer,Health Care
+XOM,Exxon Mobil,Energy
+CVX,Chevron,Energy
+BA,Boeing,Industrials
+CAT,Caterpillar,Industrials
+GE,General Electric,Industrials
+DAL,Delta Air Lines,Industrials
+F,Ford Motor,Consumer Discretionary
+GM,General Motors,Consumer Discretionary
+T,AT&T,Communication Services
+VZ,Verizon,Communication Services
+NEE,NextEra Energy,Utilities

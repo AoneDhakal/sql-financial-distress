@@ -1,0 +1,17 @@
+sector,rate_regime,avg_distress_score,avg_interest_coverage,company_years
+Communication Services,High-rate year,1.8,4.03,10
+Communication Services,Low-rate year,2.1,4.82,10
+Consumer Discretionary,High-rate year,1.5,10.75,20
+Consumer Discretionary,Low-rate year,1.7,13.09,20
+Consumer Staples,High-rate year,1.2,13.63,15
+Consumer Staples,Low-rate year,1.07,17.93,15
+Energy,High-rate year,0.2,41.43,10
+Energy,Low-rate year,1.1,29.94,10
+Health Care,High-rate year,0.4,18.37,10
+Health Care,Low-rate year,0.1,41.02,10
+Industrials,High-rate year,2.2,6.56,20
+Industrials,Low-rate year,2.55,4.53,20
+Technology,High-rate year,0.9,29.22,10
+Technology,Low-rate year,0.5,28.96,10
+Utilities,High-rate year,2.0,3.16,5
+Utilities,Low-rate year,2.6,3.42,5
